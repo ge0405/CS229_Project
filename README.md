@@ -17,7 +17,3 @@ A script containing fully-connected neural network model.
 ## RNN.py
 
 A script containing recurrent neural network model. 
-
-# Notes
-
-The codes are for Stanford CS229 class only. 
